@@ -5,6 +5,8 @@ body {
 
 img {
     float: left;
-    width: auto;
-    height: auto;
+    width: 300px;
+    height auto;
+    padding: 5px;
+
 }

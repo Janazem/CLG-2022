@@ -8,9 +8,19 @@ div {
 }
 
 #myList{
-    list-style: circle;
+    list-style: circle; 
 }
 
 
 
+#myList .kocka {
+     color: blue;
+}
 
+#myList .pes {
+    color: red;
+}
+
+#myList .kocka.pes {
+    display: none
+}
